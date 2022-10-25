@@ -3,7 +3,7 @@ Currently, I am a Development Assistant, and I help out with web development and
 
 💃🏽 I’m interested in in dance, anime, manga, drawing, pilates/yoga, writing, and ofcourse, coding!
 
-🌱 I’m currently learning JavaScript, Python, and php.
+🌱 I’m currently learning JavaScript, Python, Java, and php.
 
 💻 I’m looking to collaborate on web development projects.
 
