@@ -1,11 +1,11 @@
-👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton. My current goal is to become a front-end developer! 
+👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton. My current goal is to become a software engineer! 
 Currently, I am a Development Assistant, and I help out with web development and web content maintenance. 
 
 💃🏽 I’m interested in in dance, anime, manga, drawing, pilates/yoga, writing, and ofcourse, coding!
 
 🌱 I’m currently learning JavaScript, Python, Java, and php.
 
-💻 I’m looking to collaborate on web development projects.
+💻 I’m looking to collaborate on software development projects.
 
 📫 You can reach me in the following places:
 + ✍🏾 comment section of one of my [blog posts](https://sharas-bubbles.com/posts/5-ways-to-stay-focused/).
