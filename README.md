@@ -8,9 +8,8 @@ Currently, I am a Development Assistant, and I help out with web development and
 💻 I’m looking to collaborate on software development projects.
 
 📫 You can reach me in the following places:
-+ ✍🏾 comment section of one of my [blog posts](https://sharas-bubbles.com/posts/5-ways-to-stay-focused/).
-+ 📝 through a form on my [portfolio](https://www.shara-desdev.xyz/about-me).
-+ 📧 by emailing me at shara.desdev@gmail.com.
++ ✍🏾 comment section of one of my [blog posts](https://www.presentingshara.com).
++ 📧 by emailing me at shara.a.belton@gmail.com.
 + 💼 Through my [LinkedIn](https://www.linkedin.com/in/shara-belton/).
 
 Yayy, thanks for reading. Let's be friends!!!!
