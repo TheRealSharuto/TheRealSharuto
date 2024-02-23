@@ -9,7 +9,7 @@ Currently, I am a Development Assistant, and I help out with web development and
 
 📫 You can reach me in the following places:
 + ✍🏾 comment section of one of my [blog posts](https://www.presentingshara.com).
-+ 📧 by emailing me at shara.a.belton@gmail.com.
++ 📧 by emailing me at sharabelton@proton.me.
 + 💼 Through my [LinkedIn](https://www.linkedin.com/in/shara-belton/).
 
 Yayy, thanks for reading. Let's be friends!!!!
