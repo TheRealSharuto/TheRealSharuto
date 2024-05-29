@@ -1,20 +1,15 @@
-👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton. My current goal is to become a software engineer! 
-Currently, I am a Development Assistant, and I help out with web development and web content maintenance. 
+👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton! 
+Currently, I am a Development Assistant, and I help out with web development and web content maintenance. However, I am also interested in data - and will be dabbling in learning the languages for it and contributing to related projects!
 
-💃🏽 I’m interested in in dance, anime, manga, drawing, pilates/yoga, writing, and ofcourse, coding!
+💃🏽 My hobbies lie in dance, anime, manga, drawing, webtoons, meditation, pilates/yoga, writing, and ofcourse, coding!
 
-🌱 I’m currently learning JavaScript, Python, Java, and php.
+🌱💻 I’m currently learning R, SQL, PHP, Tableau, PowerBI. Furthing skills in Python, JavaScript(React, Angular), HTML, CSS.
 
-💻 I’m looking to collaborate on software development projects.
 
 📫 You can reach me in the following places:
 + ✍🏾 comment section of one of my [blog posts](https://www.presentingshara.com).
 + 📧 by emailing me at sharabelton@proton.me.
 + 💼 Through my [LinkedIn](https://www.linkedin.com/in/shara-belton/).
-
-Yayy, thanks for reading. Let's be friends!!!!
-
-![Anime hug gif](https://www.dropbox.com/s/bj51s73jwc154re/happy-hug-kimi-no-todoke.gif?raw=1)
 
 <!---
 TheRealSharuto/TheRealSharuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
