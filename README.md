@@ -3,7 +3,7 @@ Currently, I am a Development Assistant, and I help out with web development and
 
 💃🏽 My hobbies lie in dance, anime + webtoons + manga, reading scientific papers, drawing, meditation, pilates/yoga, writing, and ofcourse, coding!
 
-🌱💻 I’m currently learning R, SQL, and Tableau. Furthing skills in Python, JavaScript, HTML, CSS. Existing skills in Java as well.
+🌱💻 I’m currently learning R, SQL, and Tableau. Dabbling into some SAS. Furthing skills in Python for Data Science.
 
 🏫 Education
 + Bachelor's of Science in Kinesiology
