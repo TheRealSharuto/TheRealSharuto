@@ -1,7 +1,7 @@
 👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton! 
 Currently, I am a Development Assistant, and I help out with web development and web content maintenance. However, I am in the process of pivoting into data - and will be producing projects that spin me in the direction towards Data Science in hopes of getting some experience before I apply to grad school!
 
-💃🏽 My hobbies lie in dance, anime + webtoons + manga, reading scientific papers, drawing, meditation, pilates/yoga, writing, and ofcourse, coding!
+💃🏽 My hobbies lie in dance, reading scientific papers, drawing, meditation, pilates/yoga, writing, and ofcourse, coding!
 
 🌱💻 I’m currently learning R, SQL, and Tableau. Dabbling into some SAS. Furthing skills in Python for Data Science.
 
