@@ -3,7 +3,7 @@ Currently, I am a Computer Operator, and I help out with RelativityOne Automatio
 
 💃🏽 My hobbies lie in dance, reading scientific papers, drawing, meditation, pilates/yoga, writing, and ofcourse, coding!
 
-🌱💻 I’m currently learning Powershell as well as the Relativity platform and it's API as of January 2025. I'm Dabbling into some C# andstudying for Relativity and IT certifications.
+🌱💻 I’m currently learning Powershell as well as the Relativity platform and it's API as of January 2025. I'm dabbling into some C# and studying for Relativity and IT certifications.
 
 🏫 Education
 + Bachelor's of Science in Kinesiology
