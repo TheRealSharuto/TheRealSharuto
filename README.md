@@ -1,23 +1,19 @@
 👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton! 
-Currently, I am a Development Assistant, and I help out with web development and web content maintenance. However, I am in the process of pivoting into data - and will be producing projects that spin me in the direction towards Data Science in hopes of getting some experience before I apply to grad school!
+Currently, I am a Computer Operator, and I help out with RelativityOne Automation using the API and I help with e-discovery processing. I plan on continuing in e-discovery and either branching out into digital forensics or continuing Relativity development and IT work.
 
 💃🏽 My hobbies lie in dance, reading scientific papers, drawing, meditation, pilates/yoga, writing, and ofcourse, coding!
 
-🌱💻 I’m currently learning R, SQL, and Tableau. Dabbling into some SAS. Furthing skills in Python for Data Science.
+🌱💻 I’m currently learning Powershell as well as the Relativity platform and it's API as of January 2025. I'm Dabbling into some C# andstudying for Relativity and IT certifications.
 
 🏫 Education
 + Bachelor's of Science in Kinesiology
 + Bachelor's of Science in Computer Science
-+ Harvard Professional Certificate in Data Science in progress on edX
-+ Continuing Education on [Kaggle](https://www.kaggle.com/)!
++ Studying for Relativity Certifications
 
-Feel free to follow my education progress on my edX and Kaggle courses [here](https://www.presentingshara.com). I will also be blogging about different interesting research papers and books I come across in relation to data science.
-
-
-📫 You can reach me in the following places:
-+ ✍🏾 comment section of one of my [blog posts](https://www.presentingshara.com).
-+ 📧 by emailing me at sharabelton@proton.me.
-+ 💼 Through my [LinkedIn](https://www.linkedin.com/in/shara-belton/).
+📫 You can reach and learn more about me in the following places:
++ ✍🏾 Learn about me through my [blog posts](https://www.presentingshara.com).
++ 📧 Reach me by emailing me at sharabelton@proton.me.
++ 💼 Reach me through my [LinkedIn](https://www.linkedin.com/in/shara-belton/).
 
 <!---
 TheRealSharuto/TheRealSharuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
