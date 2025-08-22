@@ -1,9 +1,9 @@
 👋🏾 Hi, I’m @TheRealSharuto , or in other words, Shara Belton! 
-Currently, I am a Computer Operator, and I help out with RelativityOne Automation using the API and I help with e-discovery processing. I plan on continuing in e-discovery and either branching out into digital forensics or continuing Relativity development and IT work.
+Currently, I am a Computer Operator, and I help out with RelativityOne Automation using the API and I help with e-discovery processing. I plan on adapting with the future of AI and automation and contributing to the technology by going on a path of Data Engineering/Gen AI engineering.
 
 💃🏽 My hobbies lie in dance, reading scientific papers, drawing, meditation, pilates/yoga, writing, and ofcourse, coding!
 
-🌱💻 I’m currently learning Powershell as well as the Relativity platform and it's API as of January 2025. I'm dabbling into some C# and studying for Relativity and IT certifications.
+🌱💻 I’m currently studying for a Relativity certification as a priority for my job. On the side, I am dabbling here and there in material regarding the Elastic Engineer and AWS certifications.
 
 🏫 Education
 + Bachelor's of Science in Kinesiology
